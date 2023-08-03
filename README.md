@@ -1,3 +1,3 @@
 # Todo-list
 
-project ruun on main.py file
+project run on main.py file
